@@ -1,0 +1,31 @@
+# KayOS (Pronounced like "Chaos")
+
+## About this project
+
+This project is a learning project I hope to keep working on for quite a while. Potentially my notes can help future hobbyists and beginners learn from my mistakes and have an easier time learning low level machine code than I am currently having. I am typically quite dedicated to my projects, so even if this repository is dead for a while, you can likely be assured that I will return.
+
+## Current goals
+
+I don't have any hardset goals yet, though I would at some point like a fully functioning "complete" gui based operating system with a programming language of my own to pair with it.
+
+## What is done so far
+
+In this commit, I am currently working on the bootloader. Nothing has been done yet other than a lot of reading and a bit of procrastinating as I've had a lack of free-time.
+
+## How to build and run
+
+### Requirements
+    - Must have nasm installed
+
+### Compilation
+    - run the build script in /build/build.sh or use nasm to compile yourself
+
+### Running
+    - run with qemu using the run script in /build/run.sh or run with qemu yourself
+    - Has not been tested on real hardware yet though you may try and share the results with me if you wish
+
+## Contributions
+
+Any information you may think is relevant to my project I will gladly accept. Code contributions should be talked about before hand though are unlikely to be accepted unless we are working hand in hand. This is my personal project and I wish to build it from the ground up.
+
+When this project comes to a usable state, contributions can be done in likely either a seperate repository, or organization for individual programs made for the system
