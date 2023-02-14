@@ -1,4 +1,4 @@
-# KayOS (Pronounced like "Chaos")
+# KayOS /ˈkāˌäs/
 
 ### About this project
 
