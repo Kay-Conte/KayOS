@@ -1,6 +1,6 @@
 # KayOS (Pronounced like "Chaos")
 
-## About this project
+### About this project
 
 This project is a learning project I hope to keep working on for quite a while. Potentially my notes can help future hobbyists and beginners learn from my mistakes and have an easier time learning low level machine code than I am currently having. I am typically quite dedicated to my projects, so even if this repository is dead for a while, you can likely be assured that I will return.
 
