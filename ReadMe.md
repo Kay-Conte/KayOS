@@ -1,5 +1,5 @@
-# KayOS 
-/ˈkāˌäs/
+# KayOS - (/ˈkāˌäs/)
+
 
 ### About this project
 
